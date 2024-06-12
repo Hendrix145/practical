@@ -1,1 +1,2 @@
-# practical
+This is a practical class
+
